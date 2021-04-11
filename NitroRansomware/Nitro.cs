@@ -18,7 +18,6 @@ namespace NitroRansomware
                 else
                 {
                     return false;
-                
                 }
             }
         }
