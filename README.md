@@ -5,6 +5,11 @@ Uses Discord nitro gift subscription as ransom. C# Ransomware for educational pu
  Ransomware is a type of malware that prevents or limits users from accessing their files in their sysem. It locks the user's files until the ransom is paid, in this case, 
  a Discord nitro subscription. If a user wants to unlock their files, a decryption key is needed. The ransomware asks for the ransom in exchange for the decryption key. 
  
+## Disclaimer
+This Ransomware should not be used to harm/threat/hurt others.
+Its purpose is only to share knowledge and awareness about Malware/Cryptography/Operating Systems/Programming.
+NitroRansomware is an academic ransomware made for learning and spreading awareness about how security/cryptography can be used maliciously.
+ 
  ## How it works
  When the .exe file is run, it encrypts the user's Documents, Desktop, and Pictures folder. It then recursively checks for any nested folders in the folders, and encrypts all of its
  contents. In order to decrypt the files, the user has to paste a valid Discord nitro gift subscription and submit it. The program checks if it is valid, and if it is, it is
